@@ -1,1 +1,1 @@
-# E-Commerce-Recommendation-System-Development
+# E-커머스 추천 시스템 개발
